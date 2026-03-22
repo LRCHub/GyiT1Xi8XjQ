@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "FANTASTIC LOVERS",
+  "base_artist": "アイアンフリル",
+  "createdAt": "2026-03-22T09:39:59.779640Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "FANTASTIC LOVERS",
+      "artist": "アイアンフリル",
+      "has_synced": true,
+      "path": "select/01_FANTASTIC_LOVERS_アイアンフリル.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "FANTASTIC LOVERS",
+      "artist": "アイアンフリル",
+      "has_synced": true,
+      "path": "select/02_FANTASTIC_LOVERS_アイアンフリル.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "FANTASTIC LOVERS",
+      "artist": "Aian Furiru",
+      "has_synced": true,
+      "path": "select/03_FANTASTIC_LOVERS_Aian_Furiru.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "FANTASTIC LOVERS",
+      "artist": "アイアンフリル",
+      "has_synced": true,
+      "path": "select/04_FANTASTIC_LOVERS_アイアンフリル.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "FANTASTIC LOVERS",
+      "artist": "アイアンフリル (徳井青空, 金子千紗, 日野向葵, 真央, 遠野まゆ)",
+      "has_synced": true,
+      "path": "select/05_FANTASTIC_LOVERS_アイアンフリル_(徳井青空,_金子千紗,_日野向葵,_真央,_遠野まゆ).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FANTASTIC LOVERS",
+      "artist": "アイアンフリル",
+      "has_synced": false,
+      "path": "select/pl_01_FANTASTIC_LOVERS_アイアンフリル.txt"
+    }
+  ]
+}
